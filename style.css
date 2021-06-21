@@ -1,0 +1,24 @@
+body
+{
+background-color: black;
+color:royalblue;
+}
+input
+{
+margin: 10px;
+}
+#submitnames2
+{
+margin-top: 12px;
+margin-bottom: 12px;
+background-color: royalblue;
+color: black;
+}
+#sortingname
+{
+margin-top: 12px;
+margin-bottom: 12px;
+background-color: royalblue;
+color: black;
+display: none;
+}
